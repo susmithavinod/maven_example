@@ -1,6 +1,7 @@
 public class snapper {
     public static void main(String[] args) {
         System.out.println("hi from maven project");
+        System.out.println("hello from maven project");
     }
 
     public boolean isPalindrome(String inputString) {
